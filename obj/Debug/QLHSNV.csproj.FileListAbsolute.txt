@@ -1,0 +1,152 @@
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csprojAssemblyReference.cache
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmMain.resources
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.Properties.Resources.resources
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.GenerateResource.cache
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\bin\Debug\QLHSNV.exe
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\bin\Debug\QLHSNV.pdb
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.exe
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.pdb
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTaoKhenthuong.resources
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkhenthuong.resources
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTaoKyluat.resources
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkyluat.resources
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmBaocao.resources
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmHSNV.resources
+C:\Users\LAPTOPVTC.VN\Desktop\QLHSNV\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDangnhap.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\bin\Debug\QLHSNV.exe
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\bin\Debug\QLHSNV.pdb
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csprojAssemblyReference.cache
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmBaocao.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDangnhap.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmHSNV.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTaoKhenthuong.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmMain.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTaoKyluat.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkhenthuong.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkyluat.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.Properties.Resources.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.GenerateResource.cache
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.CoreCompileInputs.cache
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.exe
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.pdb
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTTNV.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmVungMien.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDoTuoi.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTrinhDo.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKL.resources
+C:\Users\Khang\Desktop\Phân tích ns&tiềnlương\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKT.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csprojAssemblyReference.cache
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmBaocao.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDangnhap.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDoTuoi.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmHSNV.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKL.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKT.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmMain.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTrinhDo.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmThongtincanhan.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmVungMien.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkhenthuong.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkyluat.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.Properties.Resources.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.GenerateResource.cache
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.exe
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.pdb
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\bin\Debug\QLHSNV.exe
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\bin\Debug\QLHSNV.pdb
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmQuatrinhcongtac.resources
+C:\Users\LAPTOPVTC.VN\Desktop\New folder (3)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmquatrinhdaotao.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\bin\Debug\QLHSNV.exe
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\bin\Debug\QLHSNV.pdb
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csprojAssemblyReference.cache
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmBaocao.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDangnhap.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDoTuoi.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmHSNV.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKL.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKT.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmMain.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmQuatrinhcongtac.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmquatrinhdaotao.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTrinhDo.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmThongtincanhan.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmVungMien.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkhenthuong.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkyluat.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.Properties.Resources.resources
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.GenerateResource.cache
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.CoreCompileInputs.cache
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.exe
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.pdb
+C:\Users\Khang\Downloads\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmHoSoNV.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\bin\Debug\QLHSNV.exe
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\bin\Debug\QLHSNV.pdb
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csprojAssemblyReference.cache
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmBaocao.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDangnhap.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDoTuoi.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKL.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKT.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmMain.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmQuatrinhcongtac.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmquatrinhdaotao.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTrinhDo.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmThongtincanhan.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmVungMien.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkhenthuong.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkyluat.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmHoSoNV.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.Properties.Resources.resources
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.GenerateResource.cache
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.exe
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\obj\Debug\QLHSNV.pdb
+C:\Users\LAPTOPVTC.VN\Desktop\luonggggggggggggg\QLHSNV\QLHSNV\bin\Debug\QLHSNV.exe.config
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\bin\Debug\QLHSNV.exe.config
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\bin\Debug\QLHSNV.exe
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\bin\Debug\QLHSNV.pdb
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csprojAssemblyReference.cache
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmBaocao.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDangnhap.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDoTuoi.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKL.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKT.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmMain.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmQuatrinhcongtac.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmquatrinhdaotao.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTrinhDo.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmThongtincanhan.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmVungMien.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkhenthuong.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkyluat.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmHoSoNV.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.Properties.Resources.resources
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.GenerateResource.cache
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.CoreCompileInputs.cache
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.exe
+C:\Users\Khang\Desktop\QLHSNV (1)\QLHSNV\QLHSNV\obj\Debug\QLHSNV.pdb
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\bin\Debug\QLHSNV.exe.config
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\bin\Debug\QLHSNV.exe
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\bin\Debug\QLHSNV.pdb
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csprojAssemblyReference.cache
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmBaocao.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDangnhap.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmDoTuoi.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKL.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmKT.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmMain.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmQuatrinhcongtac.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmquatrinhdaotao.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmTrinhDo.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmThongtincanhan.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmVungMien.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkhenthuong.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmXemkyluat.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.frmHoSoNV.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.Properties.Resources.resources
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.GenerateResource.cache
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.exe
+C:\Users\LAPTOPVTC.VN\Desktop\lương cuối cùng\QLHSNV\QLHSNV\obj\Debug\QLHSNV.pdb
